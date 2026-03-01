@@ -42,4 +42,4 @@ It is portfolio-ready for internships or entry-level Data Analyst roles.
 ---
 
 ## 📫 Connect with Me
-[LinkedIn](YOUR_LINKEDIN_LINK) | [Email](mailto:YOUR_EMAIL)
+ [Email](mailto:shareef.data01@gmail.com)
